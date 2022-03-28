@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AveryLeber/AveryLeber.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AveryLeber/AveryLeber.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1 style="text-align:center;">World War I</h1>
+		  
+		<!-- text for navigation tabs -->
+		<div class="topnav">
+		      <a class="active" href="#home">Home</a>
+				<a href="#1">'Isms and Alliances</a>
+				<a href="#2">The Causes</a>
+				<a href="#3">Major Events</a>
+				<a href="#4">New Technologies</a>
+				<a href="#5">Impact on Soldiers</a>
+				<a href="#6">The Consequences of the Treaty of Versailles</a>
+				<a href="#7">The Modern Reflection</a>
+				<a href="#8">Citations</a>
+				
+		<!-- style nav. tabs via CSS -->
+		<style>
+		/* color */
+		.topnav {
+		background-color: #333;
+		overflow: hidden;
+		padding-right: 0px;
+		}
+		
+		.topnav a {
+		/* add some *flair*, aka they look more like tabs */
+		float: left;
+		color: #f2f2f2;
+		text-align: center;
+		text-align-last: justify;
+		padding: 14px 16.95px;
+		text-decoration: none;
+		font-size: 16px;
+		}
+		
+		.topnav a:hover {
+		/* hover color */
+		background-color: #ddd;
+		color: black;
+		}
+		
+		.topnav a:active {
+		/* font changes when hovering */
+		background-color: #04AA6D;
+		color: white;
+		}
+		</style>
+		  </div>
+		  
+	<header>
+		<h2>An Overview</h2>
+	</header>
+	
+    </head>
+</html>
