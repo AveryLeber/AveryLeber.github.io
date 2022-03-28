@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <h1 style="text-align:center;">World War I</h1>
